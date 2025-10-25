@@ -1,6 +1,6 @@
 OCT Disease Classification with Explainable AI and Generative Report Generation
 
-📌 Problem Statement
+Problem Statement
 
 Retinal diseases such as Choroidal Neovascularization (CNV), Diabetic Macular Edema (DME), and Drusen are major causes of vision impairment and blindness worldwide.
 Diagnosing these diseases typically relies on manual interpretation of Optical Coherence Tomography (OCT) scans by expert ophthalmologists — a process that is:
