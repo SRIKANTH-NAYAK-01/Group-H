@@ -30,7 +30,7 @@ Enables tele-ophthalmology, allowing remote screening and doctor validation.
 💡 Proposed Solution
 We propose a hybrid AI pipeline combining Medical Imaging Deep Learning (via MONAI) and Generative AI (via MMR — Medical-Model Report Generator) to assist doctors in early retinal disease detection.
 
-🔹 Key Features
+🔹 Key Features :
 
 🧬 Deep learning model trained on OCT datasets for disease classification
 
