@@ -30,3 +30,4 @@ We propose a hybrid AI pipeline combining Medical Imaging Deep Learning (via MON
 🧑‍⚕️ Doctor dashboard for remote validation and record management
 
 
+<img width="1024" height="1536" alt="ChatGPT Image Oct 25, 2025, 01_06_23 PM" src="https://github.com/user-attachments/assets/0b6a831b-3b11-4fe3-a072-db60496492bb" />
