@@ -1,0 +1,38 @@
+# Flask Web Application
+flask==2.3.3
+flask-cors==4.0.0
+
+# CPU Vector Search / RAG
+faiss-cpu==1.7.4
+chromadb==0.4.18
+
+# ML / Embeddings / LLM
+sentence-transformers==2.2.2
+langchain==0.1.7
+langchain-community==0.0.20
+# langchain-core==0.1.0
+cerebras-cloud-sdk==1.0.0  # LLM API for formatting/rephrasing
+
+# Database
+SQLAlchemy==2.0.44
+psycopg2-binary==2.9.9
+
+# Data Handling
+numpy==1.24.4
+pandas==2.0.3
+xarray==2023.12.0
+netCDF4==1.6.5
+
+# Visualization
+matplotlib==3.7.2
+plotly==5.17.0
+
+# Web / HTTP
+requests==2.31.0
+
+# UI / Chat
+streamlit==1.29.0
+
+# Environment / Utils
+python-dotenv==1.0.0
+
